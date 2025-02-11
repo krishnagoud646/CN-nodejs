@@ -1,0 +1,15 @@
+{
+  "name": "firstserver",
+  "version": "1.0.0",
+  "description": "My First server app using node js app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Krishna Goud",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
